@@ -1,0 +1,6 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms)
+"",Phone,11111111111,Your contact has been added!,893.0,893.0
+"",Phone,22222222222,Your contact has been added!,883.0,883.0
+"",Phone,33333333333,Your contact has been added!,875.0,875.0
+phone,22222222222,Your contact has been added!
+phone,33333333333,Your contact has been added!
